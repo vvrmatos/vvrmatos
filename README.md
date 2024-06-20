@@ -1,16 +1,28 @@
-## Hi there 👋
+```lisp
+;;; Introduction of Victor deMatos
+;;; Victor deMatos - Computer Engineer
+;;; Skills: Lisp, Python, C, Fortran
+;;;         Web, Game Development, Data Science, Mathematics
 
-<!--
-**vvrmatos/vvrmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(defun introduce-victor ()
+  (princ "Victor deMatos")
+  (terpri)
+  (princ "Space 000000110 be the final frontier but it's made in a vector computer, in some basement, somewhere")
+  (terpri)
+  (princ "Computer Engineer | Lisp | Python | C | Fortran |")
+  (terpri)
+  (princ "another line | Web | Game Development | Data Science | Mathematics |")
+  (terpri))
 
-Here are some ideas to get you started:
+(introduce-victor)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```shell
+  ░▒▓█▓▒░░▒▓███████▓▒░▒▓███████▓▒░░▒▓████████▓▒░ 
+░▒▓████▓▒░▒▓█▓▒░             ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+   ░▒▓█▓▒░▒▓█▓▒░             ░▒▓█▓▒░      ░▒▓█▓▒░ 
+   ░▒▓█▓▒░▒▓███████▓▒░░▒▓███████▓▒░      ░▒▓█▓▒░  
+   ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░  
+   ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░    ░▒▓█▓▒░   
+   ░▒▓█▓▒░░▒▓██████▓▒░░▒▓███████▓▒░     ░▒▓█▓▒░  
+```
