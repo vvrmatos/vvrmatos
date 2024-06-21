@@ -25,3 +25,4 @@
    ░▒▓█▓▒░░▒▓██████▓▒░░▒▓███████▓▒░     ░▒▓█▓▒░  
 
 (collide 'like a #supernova)
+(from caveman to spaceman -> to `NIL`)
