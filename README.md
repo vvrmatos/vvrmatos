@@ -1,5 +1,3 @@
-# ahoy there. code code!
-
 ;;; Introduction of Victor deMatos
 ;;; Victor deMatos - Computer Engineer
 ;;; Skills: Lisp, Python, C, Fortran
