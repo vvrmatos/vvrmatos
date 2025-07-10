@@ -1,4 +1,3 @@
-```clisp
 ;;; Introduction of Victor deMatos
 ;;; Victor deMatos - Computer Engineer
 ;;; Skills: Lisp, Python, C, Fortran
@@ -15,7 +14,6 @@
   (terpri))
 
 (introduce-victor)
-```
 
   ░▒▓█▓▒░░▒▓███████▓▒░▒▓███████▓▒░░▒▓████████▓▒░ 
 ░▒▓████▓▒░▒▓█▓▒░             ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
@@ -25,7 +23,6 @@
    ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░    ░▒▓█▓▒░  
    ░▒▓█▓▒░░▒▓██████▓▒░░▒▓███████▓▒░     ░▒▓█▓▒░  
 
-```clisp
 (collide 'like a #supernova)
 (from earthman to spaceman -> NIL)
-```
+
